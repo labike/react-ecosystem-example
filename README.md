@@ -1,11 +1,11 @@
-# 修改
+#### 修改
 ```
 @connect(
   state => state,
   {...}
 )
 ```
-# 为
+#### 为
 
 ```
 const mapStateToProps (state) => {
